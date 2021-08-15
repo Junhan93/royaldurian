@@ -1,25 +1,25 @@
 <section>
-    <div class="flex flex-row justify-center bg-gray-500 text-white">
+    <div class="flex flex-row justify-center bg-gray-800 text-left text-sm text-white pt-20 pb-20 space-y-10 space-x-8">
         <div>
-            <img src="" alt="Royal Durian Footer Logo" width="256px" height="256px">
+            <img src="/images/royal_footer.png" alt="Royal Durian Footer Logo" width="256px" height="256px">
         </div>
 
-        <div class="flex flex-col">
-            <h3>Special</h3>
-            <a href="#">Fresh Durian</a>
-            <a href="#">Mooncake Festival Gifting</a>
+        <div class="flex flex-col mt-5">
+            <h3 class="mb-5 font-bold">Special</h3>
+            <a href="#" class="mb-3">Fresh Durian</a>
+            <a href="#" class="mb-3">Mooncake Festival Gifting</a>
         </div>
 
-        <div>
-            <h3>Contact Us</h3>
-            <a href="#">+65 81868552</a>
-            <p>Royal Durian Stores <br> Blk 134 Jurong Gateway Road <br> #01-303A, Singapore 600134</p>
-            <a href="#">hello@royalduriansg.com</a>
+        <div class="flex flex-col mt-5">
+            <h3 class="mb-5 font-bold">Contact Us</h3>
+            <a href="#" class="mb-3">+65 81868552</a>
+            <p class="mb-3">Royal Durian Stores <br> Blk 134 Jurong Gateway Road <br> #01-303A, Singapore 600134</p>
+            <a href="#" class="mb-3">hello@royalduriansg.com</a>
         </div>
 
-        <div>
-            <h3>Get In Touch</h3>
-            <div class="flex flex-row space-x-4">
+        <div class="flex flex-col mt-5">
+            <h3 class="mb-5 font-bold">Get In Touch</h3>
+            <div class="flex flex-row space-x-4 mb-3">
                 <x-socialmedia 
                     name="youtube" 
                     path="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"
@@ -34,12 +34,12 @@
                 />
             </div>
 
-            <div>
+            <div class="mb-3">
                 <a href="#">FAQ</a>
                 <a href="#">Privacy Policy</a>
             </div>
             
-            <div class="flex flex-row space-x-4">
+            <div class="flex flex-row space-x-4 mb-3">
                 <img src="/images/guarantee_sticker.png" alt="" height="58" width="78">
                 <img src="/images/freshpahang_sticker.png" alt="" height="58" width="78">
                 <img src="/images/service_sticker.png" alt="" height="58" width="78">
