@@ -1,8 +1,7 @@
 <section class="sticky">
-    <img src="/images/royal_header.png" width="136px" height="136px" class="absolute top-0 left-10" />
+    <img src="/images/royal_header.png" width="136px" height="136px" class="absolute top-0 left-10" alt="Royal Durian Header Logo"/>
     <div class="flex justify-center bg-black text-white">
         <div class="flex flex-direction-row justify-center py-5">
-
             <x-tab name="shop" />
             <x-tab name="royal gifting" />
             <x-tab name="compensation" />
