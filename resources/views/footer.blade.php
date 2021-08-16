@@ -12,7 +12,7 @@
 
         <div class="flex flex-col mt-5">
             <h3 class="mb-5 font-bold">Contact Us</h3>
-            <a href="#" class="mb-3">+65 81868552</a>
+            <a href="#" class="mb-3 text-yellow-300 font-bold">+65 81868552</a>
             <p class="mb-3">Royal Durian Stores <br> Blk 134 Jurong Gateway Road <br> #01-303A, Singapore 600134</p>
             <a href="#" class="mb-3">hello@royalduriansg.com</a>
         </div>
